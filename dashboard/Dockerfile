@@ -1,2 +1,2 @@
-FROM quay.io/calico/kube-controllers:v1.0.0
+FROM quay.io/calico/node:v2.6.2
 MAINTAINER qiushida@buaa.edu.cn  
